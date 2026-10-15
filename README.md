@@ -1,0 +1,1 @@
+# japanese-autumn-obsidian-theme
