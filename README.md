@@ -5,7 +5,7 @@
 
 **作者：** なこと　｜　**X：** [@Nakot_otanotion](https://x.com/Nakot_otanotion)　｜　**ライセンス：** MIT
 
-![Momiji Autumnのライトモードとダークモードの配色プレビュー](assets/momiji.png)
+<img width="1280" height="670" alt="momiji" src="https://github.com/user-attachments/assets/609fbd0e-ddd6-4143-a490-285e95423231" />
 
 *画像は配色イメージを示すコンセプトモックアップです。Obsidianの実画面キャプチャではありません。*
 
